@@ -4,5 +4,5 @@
 - 황호영 교수님
 - [GitHub Link](https://github.com/ayrdaz/testreact)
 - YouTube 동영상 <br>
-[![캡스톤 디자인 프로젝트 최종 발표](https://img.youtube.com/vi/s5AuLqgoOJE/0.jpg)](https://youtu.be/s5AuLqgoOJE)
+[![캡스톤 디자인 프로젝트 최종 발표](https://img.youtube.com/vi/IGOehedieXs/0.jpg)](https://youtu.be/IGOehedieXs)
 - [YouTube Live](https://youtu.be/vcFakfuUG9Q)
